@@ -15,8 +15,6 @@ function divide(a, b) {
     throw new Error("Cannot divide by zero");
   }
 
-  fdsgkjlsdjkj;
-
   return a / b;
 }
 
